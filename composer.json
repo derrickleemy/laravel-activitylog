@@ -1,7 +1,7 @@
 {
-    "name": "accredify/laravel-activitylog",
+    "name": "derrickleemy/laravel-activitylog",
     "description": "A very simple activity logger to monitor the users of your website or application (for MongoDB)",
-    "homepage": "https://gitlab.com/accredify/laravel-activitylog-mongo",
+    "homepage": "https://github.com/derrickleemy/laravel-activitylog",
     "keywords": [
         "spatie",
         "log",
