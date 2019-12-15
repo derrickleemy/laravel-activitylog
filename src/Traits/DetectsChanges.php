@@ -4,7 +4,7 @@ namespace Spatie\Activitylog\Traits;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Eloquent\Model;
 use Spatie\Activitylog\Exceptions\CouldNotLogChanges;
 
 trait DetectsChanges

@@ -2,7 +2,7 @@
 
 namespace Spatie\Activitylog;
 
-use Illuminate\Contracts\Config\Repository;
+use Illuminate\Config\Repository;
 
 class ActivityLogStatus
 {

@@ -1,7 +1,7 @@
 {
-    "name": "spatie/laravel-activitylog",
-    "description": "A very simple activity logger to monitor the users of your website or application",
-    "homepage": "https://github.com/spatie/activitylog",
+    "name": "accredify/laravel-activitylog",
+    "description": "A very simple activity logger to monitor the users of your website or application (for MongoDB)",
+    "homepage": "https://gitlab.com/accredify/laravel-activitylog-mongo",
     "keywords": [
         "spatie",
         "log",
@@ -11,26 +11,13 @@
     ],
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Sebastian De Deyne",
-            "email": "sebastian@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Tom Witkowski",
-            "email": "dev.gummibeer@gmail.com",
-            "homepage": "https://gummibeer.de",
-            "role": "Developer"
+            "name": "Derrick Lee",
+            "email": "derrickleemy@gmail.com",
+            "homepage": "https://accredify.io"
         }
     ],
     "require": {
-        "php" : "^7.2",
+        "php": "^7.2",
         "illuminate/config": "5.8.*|^6.0",
         "illuminate/database": "5.8.*|^6.0",
         "illuminate/support": "5.8.*|^6.0",
